@@ -1,1 +1,1 @@
-# sogei
+# script-azure
